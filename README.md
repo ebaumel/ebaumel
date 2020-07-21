@@ -3,6 +3,11 @@
 🌱 I’m currently learning Machine Learning
 
 
+I've started blogging with GitHub Pages - 
+Forked from fastai/fast_template
+
+Take a look at [ericbaumel.com](http://ericbaumel.com).
+
 <!--
 **ebaumel/ebaumel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
