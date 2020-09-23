@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+🩺 I am a dignostic radiologist and
+💻 developer
+
 🌱 I’m currently learning Machine Learning
 
 
