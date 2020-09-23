@@ -8,7 +8,7 @@
 
 
 I've started blogging with GitHub Pages - 
-Forked from fastai/fast_template
+Forked from ~~fastai/fast_template~~ fastai/fastpages
 
 Take a look at [ericbaumel.com](http://ericbaumel.com).
 
