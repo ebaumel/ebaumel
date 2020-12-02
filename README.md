@@ -4,7 +4,7 @@
 🩺 I am a dignostic radiologist and
 💻 developer
 
-🌱 I’m currently learning Machine Learning
+🌱 I’m currently learning Machine Learning 🤖
 
 
 I've started blogging with GitHub Pages - 
