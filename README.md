@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Eric octocat](octocat-Eric.png)
 
 🩺 I am a dignostic radiologist and
 💻 developer
