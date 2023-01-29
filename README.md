@@ -19,7 +19,7 @@ Take a look at [ericbaumel.com](http://ericbaumel.com).
 ![Google Cloud badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-![Arduio badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
+![Arduio badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white) 
 ![Photoshop badge](https://aleen42.github.io/badges/src/photoshop.svg) ![Illustrator badge](https://aleen42.github.io/badges/src/illustrator.svg) ![Premier badge](https://aleen42.github.io/badges/src/premiere.svg) ![After Effects bagde](https://aleen42.github.io/badges/src/after_effects.svg)
 
 <!--
