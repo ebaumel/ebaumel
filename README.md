@@ -14,7 +14,7 @@ Forked from ~~fastai/fast_template~~ fastai/fastpages
 Take a look at [ericbaumel.com](http://ericbaumel.com).
 
 
-![Swift badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **ebaumel/ebaumel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
